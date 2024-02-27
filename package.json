@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "npm-searcher": "1.0.7"
+  }, 
   "scripts": {
     "test": "0"
   },
