@@ -1,17 +1,14 @@
 {
   "name": "@arraylasted/npm-search",
-  "version": "1.0.1",
+  "version": "1.1.4",
   "description": "",
   "main": "index.js",
   "dependencies": {
     "npm-searcher": "1.0.7"
-  }, 
-  "scripts": {
-    "test": "0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arraylasted/npm-search.git"
+    "url": "https://github.com/arraylasted/npm-search"
   },
   "keywords": [
     "npm",
